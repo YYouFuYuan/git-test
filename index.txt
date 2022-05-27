@@ -1,2 +1,4 @@
 inddd hello  haha
 master modify
+func modify
+
